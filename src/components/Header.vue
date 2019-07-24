@@ -1,7 +1,7 @@
 <template>
     <div class="ma-3">
             <h2 class="headline">Number of Users:</h2>
-            <span class="font-weight-bold display-2 orange--text">{{users.length}}</span>
+            <span class="font-weight-bold display-2 yellow--text">{{users.length}}</span>
         <v-container>
             <v-text-field
                 class="mx-5"
