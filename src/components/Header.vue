@@ -4,8 +4,7 @@
             <span class="font-weight-bold display-2 orange--text">{{users.length}}</span>
         <v-container>
             <v-text-field
-                class="mx-4"
-                color="green"
+                class="mx-5"
                 flat
                 hide-details
                 label="Search"
